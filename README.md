@@ -1,4 +1,4 @@
-# Python Rent Calculator
+# 🧮 Rent Calculator
 
 ## Overview
 
