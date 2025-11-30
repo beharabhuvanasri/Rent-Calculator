@@ -24,7 +24,7 @@ To get started with the Rent Calculator project, follow the steps below:
 1. Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/your-username/rent-calculator.git
+   git clone https://github.com/beharabhuvanasri/rent-calculator.git
    ```
 
 2. Navigate to the project folder:
